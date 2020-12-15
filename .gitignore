@@ -1,5 +1,3 @@
-data/
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -130,5 +128,14 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .idea/
-*.nf
 data/
+
+# Nextflow temp
+
+.nextflow*
+work/
+*.idXML
+*.mzid
+*.mzML
+
+

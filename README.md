@@ -5,7 +5,7 @@ We aim at storing code and documentation in this repository. Send an email to lu
 The document is populated with pages for
 
 - [Literature and Methods references](literature)
-- [Dataset](https://github.com/ypriverol/specpride/blob/master/datasets.md)
+- [Dataset](https://github.com/statisticalbiotechnology/specpride/tree/master/datasets)
 - [Presentation](https://docs.google.com/presentation/d/1f9gMnzccAfw_EnLuwh-cbEAngYUHMVzfp19Fa_9URrc/edit?usp=sharing)
 
 The html version of this page can be reached [here](https://statisticalbiotechnology.github.io/specpride/)
@@ -25,4 +25,4 @@ The html version of this page can be reached [here](https://statisticalbiotechno
  - [Mark Ivanov](mailto:markmipt@gmail.com), INEPCP RAS, Russia
  - [Lev Levitsky](mailto:lev.levitsky@phystech.edu), INEPCP RAS, Russia
  - [Sander Willems](mailto:sander.willems@ugent.be), Laboratory of Pharmaceutical Biotechnology, Ghent University, Belgium
- - [Henry Webel](mailto:henry.webel@sund.ku.dk), Novo Nordisk Center for Protein Research, Copenhagen University, Denmark
+ - [Henry Webel](mailto:henry.webel@sund.ku.dk), Novo Nordisk Foundation Center for Protein Research, Copenhagen University, Denmark
